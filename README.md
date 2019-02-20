@@ -2,6 +2,4 @@
 
 This project will change the world.
 
-Making the first step.
 
-Making second step.
